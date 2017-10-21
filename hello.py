@@ -1,2 +1,2 @@
 #1/usr/bin/env python
-print('hello, world.')
+print('hello, new world.')
